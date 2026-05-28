@@ -30,11 +30,14 @@ GitHub
 
 # Dataset: 
 
+https://github.com/Sapna-tech21/Netflix_data_analysis_sql/blob/main/netflix_titles.csv
+
+
 # Business Problems / KPI Analysis
 
-Here is the document: 
+Here is the document: https://github.com/Sapna-tech21/Netflix_data_analysis_sql/blob/main/Netflix_sol.docx
 
-SQL_Server_Query: 
+SQL_Server_Query: https://github.com/Sapna-tech21/Netflix_data_analysis_sql/blob/main/SQLQuery_netflix.sql
 
 # Overall Project Insights
 
